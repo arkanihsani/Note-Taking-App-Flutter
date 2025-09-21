@@ -1,4 +1,4 @@
-# Catatan Transaksi App
+# Notes App
 
 ## Prerequisite
 - Flutter
