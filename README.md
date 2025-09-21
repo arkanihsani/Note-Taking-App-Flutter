@@ -1,4 +1,4 @@
-# Notes App
+# Catatan Transaksi App
 
 ## Prerequisite
 - Flutter
@@ -10,8 +10,9 @@
    firebase login
 3. Buat project Flutter dengan:  
    flutter create <folder_name>
-4. Dalam root project Flutter, jalankan perintah berikut di terminal:  
+4. Ganti folder `lib` dan `pubspec.yaml` dengan yang ada di GitHub repo ini.
+5. Dalam root project Flutter, jalankan perintah berikut di terminal:  
    dart pub global activate flutterfire_cli  
    flutterfire configure
-5. Jalankan aplikasi dengan:  
+6. Jalankan aplikasi dengan:  
    flutter run
